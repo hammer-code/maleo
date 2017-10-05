@@ -12,3 +12,6 @@ Download now
 
 - [Very Deep Convolutional Networks for Large-Scale Image Recognition](https://arxiv.org/abs/1409.1556)
 - [Deep Residual Learning for Image Recognition](https://arxiv.org/abs/1512.03385)
+
+## Example 
+![alt text](https://github.com/hammer-code/maleo/blob/master/ex1.png)
