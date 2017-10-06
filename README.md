@@ -15,3 +15,6 @@ Download now
 
 ## Example 
 ![alt text](https://github.com/hammer-code/maleo/blob/master/ex1.png)
+
+## Example klasifikasi.py
+![alt text](https://github.com/hammer-code/maleo/blob/master/ex_klasifikasi.png)
